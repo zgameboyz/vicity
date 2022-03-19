@@ -1,4 +1,4 @@
-* Vicity
+- Vicity
 
 Author: Joel Connell Version: 0.1(increment the patch/fix version number if you make more commits past your first submission)
 
@@ -13,5 +13,4 @@ Axios, Cors, Javascript, React, React-Bootstrap
 
 Change Log:
 
- * 0.1 Created the shell of the application.
- 
+- 0.1 Created the shell of the application.
